@@ -1,0 +1,23 @@
+# FastAPI & Server
+fastapi
+uvicorn
+
+# Data Handling
+pandas
+openpyxl
+
+# LangChain & LangGraph
+langchain
+langchain-community
+langgraph
+
+# Google Gemini LLM
+langchain-google-genai
+
+# Document Processing
+pdfplumber
+docx2txt
+
+# Pydantic & Typing
+pydantic
+typing-extensions
